@@ -1,2 +1,2 @@
 Starting validation...
-Validation completed successfully!
+Validation completed successfully.
